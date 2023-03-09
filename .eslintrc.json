@@ -25,6 +25,7 @@
         "eol-last":"off",
         "indent":"off",
         "max-len":"off",
-        "no-underscore-dangle":"off"
+        "no-underscore-dangle":"off",
+        "camelcase":"off"
     }
 }
