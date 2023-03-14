@@ -4,28 +4,28 @@
         "commonjs": true,
         "es2021": true
     },
-    "extends": "airbnb-base",
+    "extends": "recomended, google",
     "overrides": [
     ],
     "parserOptions": {
         "ecmaVersion": "latest"
     },
     "rules": {
-        "no-console": "off",
-        "linebreak-style": "off",
-        "implicit-arrow-linebreak":"off",
-        "comma-dangle":"off",
-        "function-paren-newline":"off",
-        "no-else-return":"off",
-        "no-unused-vars":"warn",
-        "object-curly-newline":"off",
-        "import/newline-after-import":"off",
-        "no-trailing-spaces":"off",
-        "no-multiple-empty-lines":"off",
-        "eol-last":"off",
-        "indent":"off",
-        "max-len":"off",
-        "no-underscore-dangle":"off",
-        "camelcase":"off"
+        // "no-console": "off",
+        // "linebreak-style": "off",
+        // "implicit-arrow-linebreak":"off",
+        // "comma-dangle":"off",
+        // "function-paren-newline":"off",
+        // "no-else-return":"off",
+        // "no-unused-vars":"warn",
+        // "object-curly-newline":"off",
+        // "import/newline-after-import":"off",
+        // "no-trailing-spaces":"off",
+        // "no-multiple-empty-lines":"off",
+        // "eol-last":"off",
+        // "indent":"off",
+        // "max-len":"off",
+        // "no-underscore-dangle":"off",
+        // "camelcase":"off"
     }
 }
